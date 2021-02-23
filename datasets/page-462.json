@@ -2,6 +2,286 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "756799",
+      "date": "1575507837",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Пит и его дракон",
+        "orig": "Pete's Dragon",
+        "alter": "",
+        "year": "2016",
+        "country": "США",
+        "director": "Дэвид Лоури",
+        "genre": "комедия,боевик,фэнтези,приключения,семейный",
+        "actors": "Брайс Даллас Ховард, Роберт Редфорд, Оакс Фигли, Уна Лоуренс, Уэс Бентли, Карл Урбан, Исайя Уитлок мл., Маркус Хендерсон, Аарон Джексон, Филип Грив",
+        "description": "В течение многих лет Мистер Мичем забавлял местных детишек сказочными историями о свирепом драконе, обитающим на севере, глубоко в лесах. Для его дочери Грейс все эти истории казались ничем иным как выдумкой, ровно до тех пор, пока она не встретила в лесу маленького мальчика по имени Пит. Пит уже долгое время живет в диком лесу, у него нет ни дома, ни семьи, зато есть замечательный друг - огромный зеленый дракон Эллиот. Грейс решает разгадать историю юного Пита, узнать всю правду о его семье и загадочном драконе, о котором ходит так много слухов и легенд.",
+        "slogan": "Some secrets are too big to keep",
+        "premiere": "31 июля 2016",
+        "age": "6",
+        "time": "6120",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_756799.jpg",
+        "rating": {
+          "rating_kp": "6.588",
+          "vote_num_kp": "21570",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "54289"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "742184",
+      "date": "1575507814",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Монах и бес",
+        "orig": "Монах и бес",
+        "alter": "",
+        "year": "2016",
+        "country": "Россия",
+        "director": "Николай Досталь",
+        "genre": "комедия,фантастика",
+        "actors": "Тимофей Трибунцев, Георгий Фетисов, Борис Каморзин, Роман Мадянов, Сергей Барковский, Михаил Крылов, Михаил Милькис, Томас Моцкус, Георгий Назаренко, Владимир Капустин",
+        "description": "Фантастическая история первой половины XIX века. В мужском монастыре появляется новый насельник Иван Семенович. Но вместе с монахом в монастырь проникают темные силы, которые материализуются в лице Легиона (так он представился Ивану). Легион избрал Ивана объектом своей дьявольской работы, всячески искушая его, чтобы сбить с избранного им пути служения Богу. Но чем сильнее искушение, тем крепче духовные силы Ивана.",
+        "slogan": "",
+        "premiere": "8 сентября 2016",
+        "age": "12",
+        "time": "6780",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_742184.jpg",
+        "rating": {
+          "rating_kp": "6.959",
+          "vote_num_kp": "91767",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "984"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "678233",
+      "date": "1575507719",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Крутые меры",
+        "orig": "Bastille Day",
+        "alter": "",
+        "year": "2016",
+        "country": "Великобритания, Франция, США, Люксембург",
+        "director": "Джеймс Уоткинс",
+        "genre": "боевик,триллер,драма,криминал",
+        "actors": "Идрис Эльба, Ричард Мэдден, Шарлотта Ле Бон, Келли Райлли, Хосе Гарсия, Тьерри Годар, Винсент Лондез, Арье Вортхальтер, Мохамед Махтуми, Тео Коста Марини",
+        "description": "Ловкий карманник Майкл Мэйсон привлекает внимание полиции и спецслужб, когда крадет сумку, содержащую гораздо больше, чем просто бумажник. На его след выходит дерзкий и резкий спецагент ЦРУ Шон Брайар. Вдвоем они становятся мишенью тайной преступной организации и в течение суток должны вывести злоумышленников на чистую воду.",
+        "slogan": "Напарников не выбирают",
+        "premiere": "20 апреля 2016",
+        "age": "18",
+        "time": "5520",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_678233.jpg",
+        "rating": {
+          "rating_kp": "6.413",
+          "vote_num_kp": "20173",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "38762"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "576002",
+      "date": "1575507662",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Свободный штат Джонса",
+        "orig": "Free State of Jones",
+        "alter": "",
+        "year": "2016",
+        "country": "США",
+        "director": "Гэри Росс",
+        "genre": "боевик,история,драма,военный",
+        "actors": "Мэттью МакКонахи, Гугу Эмбата-Ро, Махершала Али, Кери Рассел, Кристофер Берри, Шон Бриджерс, Джейкоб Лофленд, Томас Мерфи, Билл Тангради, Брайан Франклин",
+        "description": "События фильма разворачиваются во время гражданской войны в США. После участия в битве при Коринфе Ньютон Найт - бедный фермер из Миссисипи возглавляет группу дезертиров из армии Конфедерации, выступающих за отмену рабства. Вместе они обустраиваются в округе Джонс, и начинают борьбу против сил Конфедерации.",
+        "slogan": "Based on the incredible true story",
+        "premiere": "24 июня 2016",
+        "age": "18",
+        "time": "8340",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_576002.jpg",
+        "rating": {
+          "rating_kp": "6.678",
+          "vote_num_kp": "10747",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "52855"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1047956",
+      "date": "1575507167",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Девушка в тумане",
+        "orig": "La ragazza nella nebbia",
+        "alter": "",
+        "year": "2017",
+        "country": "Италия, Германия, Франция",
+        "director": "Донато Карризи",
+        "genre": "триллер,драма,криминал",
+        "actors": "Тони Сервилло, Жан Рено, Алессио Бони, Лоренцо Рикельми, Галатеа Ранци, Микела Ческон, Лукреция Гидоне, Даниэла Пьяцца, Тьерри Тоскан, Екатерина Бушеми",
+        "description": "Холодной зимней ночью психиатра Аугусто Флореса срочно вызывают на работу, чтобы обследовать попавшего в аварию инспектора Фогеля. Инспектор ничего не помнит, на месте аварии ничто не указывает на ее причину и на ее жертв, однако рубашка Фогеля в пятнах свежей крови, и эта кровь не его. В ходе беседы начинает восстанавливаться цепь невероятных событий, начавшихся месяц назад.\r\n\r\nЗатерянный в Альпах сонный городок, рождественский вечер, туман. 16-летняя девушка Анна Лу, выйдя из дома, до празднично украшенной церкви так и не дошла. Нет ни тела жертвы, ни каких-либо следов борьбы, ни свидетелей - ничего. Вскоре в городе появляется инспектор Фогель, звезда сыска, специалист по поимке маньяков и серийных убийц...",
+        "slogan": "",
+        "premiere": "25 октября 2017",
+        "age": "16",
+        "time": "7680",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1047956.jpg",
+        "rating": {
+          "rating_kp": "6.836",
+          "vote_num_kp": "31549",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "9055"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1005623",
+      "date": "1575506481",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Радиус",
+        "orig": "Radius",
+        "alter": "",
+        "year": "2017",
+        "country": "Канада",
+        "director": "Кэролайн Лабреш, Steeve Léonard",
+        "genre": "фантастика,триллер",
+        "actors": "Диего Клаттенхофф, Шарлотта Салливан, Бретт Донахью, Брэдли Савацки, Андреа дель Кампо, Кристен Савацки, Даррен Фелбел, Джеймс Дархэм, Назарий Демкович, Шеннон Гайл",
+        "description": "Очнувшись после автомобильной аварии, Лиам не может ничего вспомнить. Он пытается найти помощь, но на его пути встречаются лишь мертвые тела. Первая догадка - вирус, распространяющийся по воздуху. Но скоро парень узнает ужасную правду - любой, кто находится от него в радиусе 15 метров, немедленно умирает.",
+        "slogan": "An amnesiac man discovers than anyone who comes within a 50-foot radius of him dies instantly",
+        "premiere": "17 июля 2017",
+        "age": "0",
+        "time": "5580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1005623.jpg",
+        "rating": {
+          "rating_kp": "6.193",
+          "vote_num_kp": "4144",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "13655"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "988953",
+      "date": "1575506208",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Кровоточащая сталь",
+        "orig": "Ji qi zhi xue",
+        "alter": "",
+        "year": "2017",
+        "country": "Китай, Гонконг",
+        "director": "Чжан Лицзя",
+        "genre": "боевик,фантастика,триллер",
+        "actors": "Джеки Чан, Шоу Ло, Нана Оуян, Эрика Сяхоу, Каллэн Мулвей, Тесс Хобрич, Ким Джинджелл, Дэмиен Гарви, Боуи Лам, Елена Цай",
+        "description": "Крутой агент спецназа пытается защитить молодую женщину от криминальной группировки. И в то же время он чувствует с ней странную связь, как будто они встречались в другой жизни.",
+        "slogan": "One man must unravel the past to save the future",
+        "premiere": "22 декабря 2017",
+        "age": "16",
+        "time": "6600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_988953.jpg",
+        "rating": {
+          "rating_kp": "5.421",
+          "vote_num_kp": "34355",
+          "rating_imdb": "5.2",
+          "vote_num_imdb": "8725"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "988696",
+      "date": "1575506203",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "24 часа на жизнь",
+        "orig": "24 Hours to Live",
+        "alter": "",
+        "year": "2017",
+        "country": "ЮАР, Китай, США",
+        "director": "Брайан Смрз",
+        "genre": "боевик,триллер,фэнтези",
+        "actors": "Итан Хоук, Пол Андерсон, Рутгер Хауэр, Сюй Цин, Тайрон Кеог, Натали Болтт, Лиам Каннингэм, Джереми Йонг, Сьюзэн Лин Юн, Хаким Кае-Казим",
+        "description": "Во время очередного задания погибает киллер, на совести которого много невинных жертв. Но таинственным образом он возвращается из потустороннего мира к жизни. И теперь у него есть только 24 часа, чтобы объединившись с убийцей, от руки которого он принял смерть, искупить вину и спасти свою душу.",
+        "slogan": "Цель: выжить",
+        "premiere": "26 октября 2017",
+        "age": "18",
+        "time": "5520",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_988696.jpg",
+        "rating": {
+          "rating_kp": "5.995",
+          "vote_num_kp": "9522",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "12593"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "968384",
       "date": "1575505446",
       "camrip": "0",
@@ -29,7 +309,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_968384.jpg",
         "rating": {
           "rating_kp": "6.228",
-          "vote_num_kp": "12700",
+          "vote_num_kp": "12730",
           "rating_imdb": "5.7",
           "vote_num_imdb": "6602"
         }
@@ -64,9 +344,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_928156.jpg",
         "rating": {
           "rating_kp": "7.238",
-          "vote_num_kp": "9021",
+          "vote_num_kp": "9025",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "21729"
+          "vote_num_imdb": "21737"
         }
       }
     },
@@ -98,10 +378,10 @@
         "time": "5700",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_921501.jpg",
         "rating": {
-          "rating_kp": "5.54",
-          "vote_num_kp": "48344",
+          "rating_kp": "5.541",
+          "vote_num_kp": "48351",
           "rating_imdb": "4.5",
-          "vote_num_imdb": "255"
+          "vote_num_imdb": "254"
         }
       }
     },
@@ -133,10 +413,10 @@
         "time": "6420",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_905032.jpg",
         "rating": {
-          "rating_kp": "6.213",
-          "vote_num_kp": "6140",
+          "rating_kp": "6.216",
+          "vote_num_kp": "6163",
           "rating_imdb": "5.4",
-          "vote_num_imdb": "220"
+          "vote_num_imdb": "219"
         }
       }
     },
@@ -170,8 +450,8 @@
         "rating": {
           "rating_kp": "6.249",
           "vote_num_kp": "3524",
-          "rating_imdb": "5.7",
-          "vote_num_imdb": "36"
+          "rating_imdb": "5.9",
+          "vote_num_imdb": "35"
         }
       }
     },
@@ -273,8 +553,8 @@
         "time": "7020",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_844118.jpg",
         "rating": {
-          "rating_kp": "6.339",
-          "vote_num_kp": "56751",
+          "rating_kp": "6.338",
+          "vote_num_kp": "56809",
           "rating_imdb": "6.2",
           "vote_num_imdb": "2944"
         }
@@ -308,10 +588,10 @@
         "time": "6480",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_771802.jpg",
         "rating": {
-          "rating_kp": "6.253",
-          "vote_num_kp": "4014",
+          "rating_kp": "6.254",
+          "vote_num_kp": "4017",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "7038"
+          "vote_num_imdb": "7072"
         }
       }
     },
@@ -344,7 +624,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_760904.jpg",
         "rating": {
           "rating_kp": "6.644",
-          "vote_num_kp": "21392",
+          "vote_num_kp": "21395",
           "rating_imdb": "6.3",
           "vote_num_imdb": "30729"
         }
@@ -448,10 +728,10 @@
         "time": "5100",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_586708.jpg",
         "rating": {
-          "rating_kp": "5.099",
-          "vote_num_kp": "13513",
+          "rating_kp": "5.098",
+          "vote_num_kp": "13518",
           "rating_imdb": "4.8",
-          "vote_num_imdb": "12944"
+          "vote_num_imdb": "12958"
         }
       }
     },
@@ -553,8 +833,8 @@
         "time": "6360",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_569055.jpg",
         "rating": {
-          "rating_kp": "5.211",
-          "vote_num_kp": "16080",
+          "rating_kp": "5.213",
+          "vote_num_kp": "16081",
           "rating_imdb": "5.3",
           "vote_num_imdb": "19143"
         }
@@ -589,7 +869,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_556944.jpg",
         "rating": {
           "rating_kp": "6.307",
-          "vote_num_kp": "50920",
+          "vote_num_kp": "50939",
           "rating_imdb": "6.5",
           "vote_num_imdb": "46519"
         }
@@ -623,8 +903,8 @@
         "time": "5100",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1199801.jpg",
         "rating": {
-          "rating_kp": "4.259",
-          "vote_num_kp": "1964",
+          "rating_kp": "4.267",
+          "vote_num_kp": "1967",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -729,9 +1009,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1140681.jpg",
         "rating": {
           "rating_kp": "8.46",
-          "vote_num_kp": "1938",
+          "vote_num_kp": "1955",
           "rating_imdb": "8.2",
-          "vote_num_imdb": "1030"
+          "vote_num_imdb": "1040"
         }
       }
     },
@@ -764,9 +1044,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1140394.jpg",
         "rating": {
           "rating_kp": "5.123",
-          "vote_num_kp": "11978",
+          "vote_num_kp": "11980",
           "rating_imdb": "5",
-          "vote_num_imdb": "469"
+          "vote_num_imdb": "470"
         }
       }
     },
@@ -799,7 +1079,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1115631.jpg",
         "rating": {
           "rating_kp": "7.14",
-          "vote_num_kp": "19678",
+          "vote_num_kp": "19690",
           "rating_imdb": "7.4",
           "vote_num_imdb": "42352"
         }
@@ -974,9 +1254,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1044013.jpg",
         "rating": {
           "rating_kp": "6.134",
-          "vote_num_kp": "828",
+          "vote_num_kp": "829",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "3328"
+          "vote_num_imdb": "3350"
         }
       }
     },
@@ -1009,9 +1289,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1043924.jpg",
         "rating": {
           "rating_kp": "6.574",
-          "vote_num_kp": "2680",
+          "vote_num_kp": "2683",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "6497"
+          "vote_num_imdb": "6523"
         }
       }
     },
@@ -1149,9 +1429,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1018645.jpg",
         "rating": {
           "rating_kp": "6.719",
-          "vote_num_kp": "2854",
+          "vote_num_kp": "2857",
           "rating_imdb": "7",
-          "vote_num_imdb": "3988"
+          "vote_num_imdb": "4019"
         }
       }
     },
@@ -1219,9 +1499,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1008203.jpg",
         "rating": {
           "rating_kp": "5.329",
-          "vote_num_kp": "4914",
+          "vote_num_kp": "4916",
           "rating_imdb": "5.1",
-          "vote_num_imdb": "7545"
+          "vote_num_imdb": "7568"
         }
       }
     },
@@ -1256,7 +1536,7 @@
           "rating_kp": "5.556",
           "vote_num_kp": "3744",
           "rating_imdb": "4.8",
-          "vote_num_imdb": "13774"
+          "vote_num_imdb": "13831"
         }
       }
     },
@@ -1465,288 +1745,8 @@
         "rating": {
           "rating_kp": "5.865",
           "vote_num_kp": "3145",
-          "rating_imdb": "4.8",
-          "vote_num_imdb": "44"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "983798",
-      "date": "1575501427",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Тау",
-        "orig": "Tau",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Федерико Д’Алессандро",
-        "genre": "фантастика,триллер",
-        "actors": "Майка Монро, Эд Скрейн, Гари Олдман, Fiston Barek, Ивана Живкович, Шэрон Д. Кларк, Йен Вирго, Paul Leonard Murray, Драголюб Любичич, Irene Chiengue Chiendjo",
-        "description": "История о женщине, которая оказывается в ловушке умного дома, управляемого искусственным интеллектом.",
-        "slogan": "No Bars. No Guards. No Escape",
-        "premiere": "29 июня 2018",
-        "age": "0",
-        "time": "5820",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_983798.jpg",
-        "rating": {
-          "rating_kp": "5.761",
-          "vote_num_kp": "3006",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "27147"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "982808",
-      "date": "1575501417",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Черные воды",
-        "orig": "Black Water",
-        "alter": "",
-        "year": "2018",
-        "country": "Канада, США",
-        "director": "Павел Патрики",
-        "genre": "боевик,триллер,драма",
-        "actors": "Жан-Клод Ван Дамм, Дольф Лундгрен, Ал Сапиенца, Кортни Би Турк, Джасмин Уолтц, Александр Вайшельбойм, Марк Шерман, Cathal Pendred, Кристофер Ван Варенберг, Аарон О’Коннелл",
-        "description": "Глубоко законспирированный агент под прикрытием приходит в себя на подводной лодке ЦРУ.",
-        "slogan": "Some secrets never surface",
-        "premiere": "5 апреля 2018",
-        "age": "0",
-        "time": "6240",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_982808.jpg",
-        "rating": {
-          "rating_kp": "4.635",
-          "vote_num_kp": "1435",
-          "rating_imdb": "4.7",
-          "vote_num_imdb": "4363"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "980087",
-      "date": "1575501405",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Кукловод: Самый маленький рейх",
-        "orig": "Puppet Master: The Littlest Reich",
-        "alter": "",
-        "year": "2018",
-        "country": "Великобритания, США",
-        "director": "Сонни Лагуна, Томмю Виклунд",
-        "genre": "комедия,ужасы",
-        "actors": "Томас Леннон, Дженни Пеллисер, Нельсон Франклин, Шарлин Йи, Майкл Паре, Барбара Крэмптон, Удо Кир, Алекс Бе, Маттиас Хьюз, Skeeta Jenkins",
-        "description": "Автор комиксов Эдгар после развода возвращается в отчий дом. В шкафу брата, погибшего ещё в детстве при странных обстоятельствах, он находит страшную куклу и решает выставить её на аукцион. Событие приурочено к 30-летию убийства Андре Тулона - нацистского кукольника-маньяка, бежавшего из Германии после Второй мировой войны. В отель прибывают гости, у многих из них есть куклы на продажу, которые, попав в непосредственную близость к своему почившему хозяину, оживают и устраивают постояльцам кровавую баню.",
-        "slogan": "World War III Begins on Your Toy Shelf",
-        "premiere": "20 апреля 2018",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_980087.jpg",
-        "rating": {
-          "rating_kp": "5.402",
-          "vote_num_kp": "765",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "3446"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "976520",
-      "date": "1575501393",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Подстава",
-        "orig": "Set It Up",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Клер Скэнлон",
-        "genre": "комедия,мелодрама",
-        "actors": "Зои Дойч, Глен Пауэлл, Люси Лью, Тэй Диггз, Джоан Смоллз, Мередит Хагнер, Пит Дэвидсон, Джон Рудницкий, Титус Берджесс, Джейк Робинсон",
-        "description": "События ленты будут вращаться вокруг двух ассистентов, замышляющих коварный план, чтобы заставить своих несносных боссов встречаться. Рик - крайне агрессивный руководитель, добившийся благодаря своему характеру успехов в бизнесе, но ставший из-за этого невыносимым по отношению к подчиненным.",
-        "slogan": "Finding love takes some assistants",
-        "premiere": "12 июня 2018",
-        "age": "0",
-        "time": "6300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_976520.jpg",
-        "rating": {
-          "rating_kp": "6.521",
-          "vote_num_kp": "8130",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "43190"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "974870",
-      "date": "1575501386",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Монструм",
-        "orig": "Mulgoe",
-        "alter": "",
-        "year": "2018",
-        "country": "Корея Южная",
-        "director": "Хо Джон-хо",
-        "genre": "боевик,ужасы,фантастика,детектив",
-        "actors": "Ким Мён-мин, Ким Ин-гвон, Хери, Чхве У-щик, Пак Сон-ун, Ли Гён-ён, Пак Хи-сун, Ли До-гён, Ли Гю-бок, Ким Ган-иль",
-        "description": "1527 год. В Чосонском королевстве неспокойно. Мало того, что несколько лет назад по стране прокатилась жуткая зараза, от которой люди умирали в страшных муках, так теперь ещё население страдает от голода, и ходят слухи, что на горе Инван завелось волосатое чудище размеров немалых и нрава злобного. Офицер королевского двора Хо упрашивает бывшего генерала Юна, теперь живущего в сельской местности с братом и дочкой, заняться расследованием странных случаев гибели людей.",
-        "slogan": "An ancient man-eating monster awakens",
-        "premiere": "12 сентября 2018",
-        "age": "0",
-        "time": "6300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_974870.jpg",
-        "rating": {
-          "rating_kp": "5.885",
-          "vote_num_kp": "388",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "1628"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "959606",
-      "date": "1575501332",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Работа без авторства",
-        "orig": "Werk ohne Autor",
-        "alter": "",
-        "year": "2018",
-        "country": "Германия, Италия",
-        "director": "Флориан Хенкель фон Доннерсмарк",
-        "genre": "триллер,мелодрама,история,драма",
-        "actors": "Том Шиллинг, Себастьян Кох, Паула Бир, Саския Розендаль, Оливер Мазуччи, Ханно Коффлер, Каи Корс, Евгений Сидихин, Ульрике С. Чарре, Йорг Шютауф",
-        "description": "История великого немецкого художника Герхарда Рихтера, детство которого пришлось на нацистские годы, что повлияло не только на его жизнь, но и на его творчество. Будучи уже творцом, в юношеские годы он узнал в отце своей возлюбленной человека, причастного к преступлениям, и посредством творчества обличил его перед общественностью.",
-        "slogan": "Не отводи взгляд",
-        "premiere": "4 сентября 2018",
-        "age": "18",
-        "time": "11340",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_959606.jpg",
-        "rating": {
-          "rating_kp": "7.888",
-          "vote_num_kp": "46535",
-          "rating_imdb": "7.7",
-          "vote_num_imdb": "16580"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "941518",
-      "date": "1575501296",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Предательство для начинающих",
-        "orig": "Backstabbing for Beginners",
-        "alter": "",
-        "year": "2018",
-        "country": "Дания, Канада, США",
-        "director": "Пер Флю",
-        "genre": "триллер,мелодрама,история,драма",
-        "actors": "Тео Джеймс, Бен Кингсли, Жаклин Биссет, Брайан Маркинсон, Россиф Сазерленд, Рэйчел Уилсон, Бельчим Билгин, Шона МакДональд, Даниэла Лавендер, Эйдан Дивайн",
-        "description": "Молодой идеалист Майкл получает заветную должность координатора в гуманитарной программе ООН. Его отправляют в приходящий себя после войны Ирак, который теперь рвут на части правительственные агенты и представители могущественных нефтяных корпораций. Обжиться на новом месте и вникнуть в дела ему помогает его начальник - знающий регион изнутри дипломат Паша. Чем больше Майкл узнаёт, тем сильнее крепнут подозрения в большом заговоре на самом высоком уровне. Открыть его - значит поставить под удар собственную жизнь и жизни его наставника и курдской женщины, которую он любит.",
-        "slogan": "If You Dig Too Deep, You May Not Like What Comes Up",
-        "premiere": "18 января 2018",
-        "age": "0",
-        "time": "6480",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_941518.jpg",
-        "rating": {
-          "rating_kp": "5.791",
-          "vote_num_kp": "887",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "4486"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "939579",
-      "date": "1575501287",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Сага о чудовище. Сумерки",
-        "orig": "Wildling",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Фритц Бём",
-        "genre": "ужасы,триллер,фэнтези,драма",
-        "actors": "Брэд Дуриф, Лив Тайлер, Бел Паули, Джеймс ЛеГрос, Майк Фейст, Келли Ламор Уилсон, Трой Раптэш, Фрэнк Дил, Коллин Келли-Сорделет, Брайан Донахью",
-        "description": "16-летняя Анна всю жизнь провела в четырех стенах. Отец запугал девочку монстром, рыскающим снаружи и пожирающим детей. Анну освобождает местный шериф Эллен и берёт к себе жить, и стоит освобожденной девушке узнать, что никто про страшных чудовищ и слыхом не слыхивал, как начинают происходить странные события.",
-        "slogan": "Начало легенды",
-        "premiere": "10 марта 2018",
-        "age": "18",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_939579.jpg",
-        "rating": {
-          "rating_kp": "5.231",
-          "vote_num_kp": "5779",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "12104"
+          "rating_imdb": "4.9",
+          "vote_num_imdb": "43"
         }
       }
     }

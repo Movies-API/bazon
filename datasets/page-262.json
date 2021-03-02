@@ -2,6 +2,216 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1120726",
+      "date": "1582100619",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Погоня за куревом",
+        "orig": "The Dip Run",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Michael Pine",
+        "genre": "комедия",
+        "actors": "Jared Boyce, Jesse Ryan, Christopher Padilla, Darcy Compton, John Burk, Ryan Quinn Adams, Кори Лэндис, Lonny Morgan, Outlaw Morgan, Marcelo Palacios",
+        "description": "Четыре друга путешествуют по Соединенным Штатам, чтобы заключить самую крупную сделку в их жизни. Единственное, что их останавливает - это дорога туда. На старом фургоне они путешествуют по всей стране в надежде достичь американской мечты. Проходя через все неудачи, они понимают, что дорога - это не самое страшное препятствие.",
+        "slogan": "",
+        "premiere": "20 ноября 2018",
+        "age": "16",
+        "time": "5760",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTVmNWE3ZmMtYjg0OS00MjRhLThlOTEtODQ0NThlY2VmNTZjXkEyXkFqcGdeQXVyNzkyNzYzNjc@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "7",
+          "rating_imdb": "2.6",
+          "vote_num_imdb": "174"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1118571",
+      "date": "1582100612",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Зоо-торчок",
+        "orig": "Zoo-Head",
+        "alter": "",
+        "year": "2019",
+        "country": "Великобритания",
+        "director": "Навин Дев",
+        "genre": "фантастика,триллер",
+        "actors": "Дэниэл Ахмади, Hussina Raja, Brian Potter Jr., Росс Маллен, Джейсон Уинг, Roik Rajnak",
+        "description": "Чтобы не потерять пособие по безработице, законченный наркоман Чак соглашается участвовать в экспериментальной программе по лечению завимости путём перепрограммирования мозга. Однако, в его случае программа даёт сбой и вытаскивает из недр подсознания тёмные и разрушительные воспоминания, которые лучше было бы забыть.",
+        "slogan": "Past. Present. Repeat",
+        "premiere": "13 мая 2019",
+        "age": "0",
+        "time": "4800",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTI1NzhiNjEtMjE4MC00MWFhLWEwMmUtZDRjMTQ1NGZiNmU4XkEyXkFqcGdeQXVyNTk1NTMyNzM@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "18",
+          "rating_imdb": "3.6",
+          "vote_num_imdb": "128"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1118491",
+      "date": "1582100611",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "НГК: Нанда Гопалан Кумаран",
+        "orig": "NGK",
+        "alter": "",
+        "year": "2019",
+        "country": "Индия",
+        "director": "К. Селварагхаван",
+        "genre": "боевик,драма",
+        "actors": "Сурья Шивакумар, Sai Pallavi, Ракул Прит Сингх, Понваннан, Деварай, Низхалгал Рави, Ilavarasu, Тхалаивасал Виджай, Бала Сингх, Ума Патхманабан",
+        "description": "Хорошо образованный благодетель Кумаран спокойно живёт с женой и семьёй. Но в какой-то момент ему приходится пойти в политику и служить обществу. Но уступит ли старая гвардия своё место молодому и талантливому политику?",
+        "slogan": "",
+        "premiere": "31 мая 2019",
+        "age": "0",
+        "time": "8880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1118491.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "19",
+          "rating_imdb": "5.9",
+          "vote_num_imdb": "3778"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1118403",
+      "date": "1582100609",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Опасный сын",
+        "orig": "A Dangerous Son",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Лиз Гарбус",
+        "genre": "документальный",
+        "actors": "Tony Beliz, Creigh Deeds, Thomas Insel, Лиза Лонг, Maria Martinez, Andrew Solomon, Brian Tallant",
+        "description": "Остросоциальный документальный фильм от номинанта на «Оскар» Лиз Гарбус. Она рассказывает о трех семьях, в каждой из которых есть ребенок, страдающий от психического заболевания. Родители, пережившие подобное горе, страдают от ужасающего чувства вины. Но не менее сильно бьет по ним постоянное беспокойство, что психически нестабильный ребенок может нанести вред себе или другим. И хотя лечение может значительно улучшить результат, но надлежащий уход в США часто бывает роскошью, доступной только тем, кто может себе это позволить.",
+        "slogan": "",
+        "premiere": "7 мая 2018",
+        "age": "16",
+        "time": "5160",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1118403.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "83",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "484"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1118228",
+      "date": "1582100608",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "10 лет в Японии",
+        "orig": "Ten Years Japan",
+        "alter": "",
+        "year": "2018",
+        "country": "Япония",
+        "director": "Акиё Фудзимура, Кэй Исикава, Юсукэ Киносита",
+        "genre": "драма",
+        "actors": "Дзюн Кунимура, Хана Сугисаки, Тайга, Тидзуру Икэваки, Сатору Кавагути",
+        "description": "Пять коротких историй от пяти разных режиссеров, размышляющих о том, какой будет Япония в 2028 году.",
+        "slogan": "",
+        "premiere": "7 октября 2018",
+        "age": "0",
+        "time": "5940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1118228.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "10",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "100"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1118224",
+      "date": "1582100606",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Фунань: Новые люди",
+        "orig": "Funan",
+        "alter": "",
+        "year": "2018",
+        "country": "Франция, Бельгия, Люксембург, Камбоджа",
+        "director": "Дэни До",
+        "genre": "мультфильм",
+        "actors": "Беренис Бежо, Луи Гаррель, Колетт Киффер, Aude-Laurence Clermont Biver, Brice Montagne, Франк Сасонофф, Эрве Сонь, Максим Баудоин, Том Труфье, Лила Лякомб",
+        "description": "1975 год, Камбоджа. Молодая мать пытается найти четырехлетнего сына, потерявшегося во время революции красных кхмеров.",
+        "slogan": "Cambodia, April 1975",
+        "premiere": "11 июня 2018",
+        "age": "0",
+        "time": "5040",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1118224.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "65",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "771"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1118210",
       "date": "1582100605",
       "camrip": "0",
@@ -941,7 +1151,7 @@
           "rating_kp": "0",
           "vote_num_kp": "354",
           "rating_imdb": "7.9",
-          "vote_num_imdb": "22743"
+          "vote_num_imdb": "22799"
         }
       }
     },
@@ -1114,9 +1324,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1115077.jpg",
         "rating": {
           "rating_kp": "7.054",
-          "vote_num_kp": "1279",
+          "vote_num_kp": "1281",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "5738"
+          "vote_num_imdb": "5765"
         }
       }
     },
@@ -1537,216 +1747,6 @@
           "vote_num_kp": "294",
           "rating_imdb": "7.7",
           "vote_num_imdb": "5035"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1112997",
-      "date": "1582100497",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Дьяволица",
-        "orig": "Luciferina",
-        "alter": "",
-        "year": "2018",
-        "country": "Аргентина",
-        "director": "Гонсало Кальзада",
-        "genre": "ужасы,детектив",
-        "actors": "Sofía Del Tuffo, Марта Лубос, Педро Мерло, Малена Санчес, Франциско Донован, Стефания Кёсль, Гастон Кокьярале, Desirée Gloria Salgueiro, Томас Лапан, Вандо Вильямиль",
-        "description": "Наталия - 19-летняя послушница, которая вынуждена вернуться домой, чтобы попрощаться с умирающим отцом. Но встретившись со своей сестрой и ее друзьями, она неожиданно решается отправиться вместе с ними в джунгли на поиски мистического растения. Вот только вместо позитивного опыта им придется узнать, что такое Черные мессы и жестокие смерти, а будущая монахиня столкнется с самим дьяволом.",
-        "slogan": "Quien busca al diablo, lo encuentra",
-        "premiere": "15 марта 2018",
-        "age": "0",
-        "time": "6660",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1112997.jpg",
-        "rating": {
-          "rating_kp": "4.468",
-          "vote_num_kp": "292",
-          "rating_imdb": "4.6",
-          "vote_num_imdb": "498"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1112882",
-      "date": "1582100494",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Кодекс сводника",
-        "orig": "The Matchmaker's Playbook",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Тоска Маск",
-        "genre": "комедия,мелодрама",
-        "actors": "Ник Бейтман, Кэйтлин Карвер, Тайлер Джонсон, Жюстен Алперт, Трей Такер, Мадлен Вагер, Карсон Найсели, Кристина ДеРоса, Бэйли Джейн Кормэн, Harrison Grant",
-        "description": "Бывший футболист Иен, которому пришлось уйти из профессионального спорта из-за травмы, помогает девушкам привлечь внимание парней, о которых те мечтают. И все его правила из кодекса сводника не дают сбоев, пока к нему за помощью не обращается Блейк.",
-        "slogan": "Wingman rule number one: don't fall for a client",
-        "premiere": "15 марта 2018",
-        "age": "0",
-        "time": "5340",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1112882.jpg",
-        "rating": {
-          "rating_kp": "6.019",
-          "vote_num_kp": "1927",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "1296"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1112685",
-      "date": "1582100483",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Наследницы",
-        "orig": "Las herederas",
-        "alter": "",
-        "year": "2018",
-        "country": "Парагвай, Франция, Германия, Норвегия, Бразилия, Уругвай, Италия",
-        "director": "Марсело Мартинесси",
-        "genre": "драма",
-        "actors": "Ана Брун, Маргарита Ирун, Ана Иванова, Нильда Гонсалес, Мария Мартинс, Алисия Гуерра, Mecha Armele, Ana Banks, Beto Barsotti, Rossana Bellassai",
-        "description": "Две женщины, Чела и Чикита, живут семьей вместе уже больше 30 лет, однако денег, оставшихся когда-то обеим от обеспеченных родителей, меньше с каждым днем. Вот они уже вынуждены распродавать хрусталь, картины и даже мебель. Неумелые операции с кредитами и вовсе приводят к тому, что Чикиту отправляют на пару месяцев за решетку, и привыкшей к комфорту и заботе Челе приходится заняться частным извозом, благо богатым пожилым соседкам как раз нужен шофер-женщина.",
-        "slogan": "",
-        "premiere": "16 февраля 2018",
-        "age": "0",
-        "time": "5880",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1112685.jpg",
-        "rating": {
-          "rating_kp": "6.307",
-          "vote_num_kp": "262",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "2734"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1112659",
-      "date": "1582100480",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Медведи-соседи: Большое уменьшение",
-        "orig": "Boonie Bears: The Big Shrink",
-        "alter": "",
-        "year": "2018",
-        "country": "Китай",
-        "director": "Линь Юнчан, Линь Хуэйда, Дин Лян",
-        "genre": "мультфильм,комедия,приключения",
-        "actors": "-",
-        "description": "Изобретатель Виктор и парочка медведей стали крохотными, случайно попав под действие уменьшающего фонарика, созданного самим Виктором. Они отправляются в путешествие, чтобы вернуть себе прежний размер, а заодно спасти от загрязнения реку, по которой проходит миграция лосося.",
-        "slogan": "",
-        "premiere": "16 февраля 2018",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1112659.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "997",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "121"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1112611",
-      "date": "1582100476",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Караван",
-        "orig": "Karwaan",
-        "alter": "",
-        "year": "2018",
-        "country": "Индия",
-        "director": "Акарш Хурана",
-        "genre": "комедия,драма",
-        "actors": "Ирфан Кхан, Дулкар Салман, Митхила Палкар, Амала Акинени, Акаш Хурана, Харбанда Крити, Donna Munshi, Abir Abrar, Бина, Siddharth Menon",
-        "description": "Отец Авинаша погибает в автобусной аварии, и его тело отправляют через турагентство, но...не Авинашу. А Авинаш получает тело совершенно неизвестной женщины. И теперь герой со своим причудливым другом Шаукатом отправляется на другой конец страны, чтобы совершить обмен.",
-        "slogan": "",
-        "premiere": "3 августа 2018",
-        "age": "0",
-        "time": "6840",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1112611.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "100",
-          "rating_imdb": "7.5",
-          "vote_num_imdb": "13230"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1112578",
-      "date": "1582100475",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Чудесный призрак",
-        "orig": "Wondeopul goseuteu",
-        "alter": "",
-        "year": "2018",
-        "country": "Корея Южная",
-        "director": "Чо Вон-хи",
-        "genre": "комедия,фэнтези,мелодрама,криминал",
-        "actors": "Ма Дон-сок, Ким Ён-гван, Ли Ю-ён, Чхве Гви-хва, Чу Джин-мо, Чхве Ю-ри, Ким А-ра, Хо Джэ-хо, Ко Гю-пхиль, Е Джон-хва",
-        "description": "Получив компромат на местный ночной клуб, новичок-полицейский Тхэ-джин попадает в засаду. Бандиты перестарались и случайно вогнали парня в кому, а его душа отделилась от тела. Страж закона очень хочет завершить расследование и вернуться к своей подружке, но теперь он - всего лишь бесплотный блуждающий призрак. Судьба посылает бедолаге шанс в виде равнодушного к правосудию соседа, хозяина секции по дзюдо. Тот может видеть призрака, разговаривать с ним, но принципиально не желает вмешиваться в чужие дела, заботясь только о маленькой дочке. Теперь Тхэ-джин не отцепится от нового знакомого, пока тот не поможет ему завершить начатое.",
-        "slogan": "",
-        "premiere": "26 сентября 2018",
-        "age": "0",
-        "time": "5820",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1112578.jpg",
-        "rating": {
-          "rating_kp": "6.518",
-          "vote_num_kp": "301",
-          "rating_imdb": "6",
-          "vote_num_imdb": "373"
         }
       }
     }

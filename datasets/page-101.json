@@ -2,6 +2,216 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1046498",
+      "date": "1602071104",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Американские кошмары",
+        "orig": "Mr. Malevolent",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Расти Кандифф,Дэрин Скотт",
+        "genre": "ужасы,комедия",
+        "actors": "Рэйчел Аксельрод,Клео Берри,Гэбриел Браун,Брэдли Бандли,Кейт Батлер,Джейсон Кэбелл,Мадлен Когхлан,Расти Кандифф,Венди Дэвис,Мари Дестин",
+        "description": "Мистер Зло взламывает компьютеры двух молодых хакеров и заставляет их смотреть страшные истории.",
+        "slogan": "",
+        "premiere": "11 октября 2018",
+        "age": "18",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1046498.jpg",
+        "rating": {
+          "rating_kp": "4.848",
+          "vote_num_kp": "466",
+          "rating_imdb": "4.3",
+          "vote_num_imdb": "607"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "144070",
+      "date": "1602064121",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Восстание",
+        "orig": "Dôran",
+        "alter": "",
+        "year": "1980",
+        "country": "Япония",
+        "director": "Сиро Моритани",
+        "genre": "драма,военный,история",
+        "actors": "Кэн Такакура,Саюри Ёсинага,Масаканэ Ёнэкура,Дзюнко Сакурада,Такахиро Тамура,Такаси Симура,Кэи Сато,Куниэ Танака,Рюносукэ Канэда,Син Кисида",
+        "description": "Фильм повествует о мятеже националистически настроенных офицеров японской армии, произошедшем 26-29 февраля 1936 года. Мятеж организовали молодые офицеры-националисты, которые были убеждены в том, что побороть в стране политическую коррупцию и крайнюю бедность в сельской местности можно лишь путём устранения нескольких высших политиков…<br />",
+        "slogan": "",
+        "premiere": "15 января 1980",
+        "age": "0",
+        "time": "9000",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmM0YWJjMTgtOTQwZS00NGJhLWJkNmQtNzhiOTNhOTYxZDllL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQyMTQzMjM@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "2",
+          "rating_imdb": "7",
+          "vote_num_imdb": "30"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "147089",
+      "date": "1602063993",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Призрачное счастье",
+        "orig": "Le miroir a deux faces",
+        "alter": "",
+        "year": "1958",
+        "country": "Франция,Италия",
+        "director": "Андре Кайат",
+        "genre": "драма",
+        "actors": "Мишель Морган,Бурвиль,Иван Десни,Жоржетт Анис,Жюльен Каретт,Жорж Шамара,Элизабет Мане,Жана Маркен,Марсель Перес,Сильви",
+        "description": "В автомобильной аварии с участием знаменитого пластического хирурга сильно пострадал преподаватель арифметики. В качестве компенсации хирург предлагает жене преподавателя сделать пластическую операцию, которая превратит её в необыкновенную красавицу. Но это не приносит им счастья.",
+        "slogan": "A compelling new theme in motion pictures...penetrating, profound, provocative",
+        "premiere": "15 октября 1958",
+        "age": "0",
+        "time": "5760",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_147089.jpg",
+        "rating": {
+          "rating_kp": "7.198",
+          "vote_num_kp": "230",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "261"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1074354",
+      "date": "1602063607",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Интервью с монстрами... и снежным человеком",
+        "orig": "Interviewing Monsters",
+        "alter": "Wywiad z potworem / Interviewing Monsters and Bigfoot",
+        "year": "2019",
+        "country": "США",
+        "director": "Thomas Smugala",
+        "genre": "комедия",
+        "actors": "Том Грин,Лес Страуд,Stacy Brown Jr.,Джесси Комбс,Elise Edwards,Тера Экерл,A.J. Koehler,Брайан Ковальски,Rick Dyer,Jeff Evans",
+        "description": "Убитый горем, профессор Кори Мэтис утверждает, что его жена погибла от лап мистического лесного существа. Трагедия превращает его в свирепого охотника, отчаявшегося и жаждущего мести. В погоне за своей целью, Мэтис объединяется с легендарным зверобоем Фрэном Андерсоном, которому за поимку чудища обещают награду в десять миллионов долларов. Однако на пути у них встает рейнджер-самоучка Билл Тил и тайный правительственный агент Рик Даер, имеющие на монстра свои планы.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "6600",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDg1Mzg0NmItY2ZkOC00YmQzLThlMWYtOGUyODA3ZTdlMGJiXkEyXkFqcGdeQXVyNDg3MTQxOTg@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "8",
+          "rating_imdb": "3.2",
+          "vote_num_imdb": "116"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1108628",
+      "date": "1602063393",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Кубинец",
+        "orig": "The Cuban",
+        "alter": "",
+        "year": "2019",
+        "country": "Канада",
+        "director": "Серджо Наварретта",
+        "genre": "драма",
+        "actors": "Ана Голджа,Луис Госсет мл.,Шоре Агдашлу,Лорен Холли,Джакомо Джианниотти,Шива Негар,Джонатан Кельтц,Лайла Ализаде,Эмили Пиггфорд,Надин Роден",
+        "description": "Когда наивная студентка медицинского факультета по имени Мина получает свою первую работу в доме престарелых, неожиданная дружба с Луисом, пожилым кубинским музыкантом, возрождает ее любовь к музыке и навсегда меняет ее жизнь.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "6600",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmIxOGU3MTMtMmE2Yy00YWM0LWJmNWYtZDAzZGM1ZDc0MjdkXkEyXkFqcGdeQXVyNzE4OTk0MDU@._V1_SX694_CR0,0,694,999_AL_.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1100922",
+      "date": "1602063323",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Расплата",
+        "orig": "The Devil to Pay",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Лэйн Скай,Рукус Скай",
+        "genre": "триллер",
+        "actors": "Даниэль Дедуайлер,Катрин Дайер,Джэйсон Уорнер Смит,Адам Бойер,Чарльз Блэк,Брэд Картер,Tim Habeger,Майкл Генри Харрис,Ezra Haslam,Шелби Хофер",
+        "description": "Лемон Кэссиди, чернокожая фермерша, проживает в изолированной общине у гор Аппалачи. После исчезновения мужа, ей приходится нарушить давнее перемирие и начать с оружием в руках защищать себя и своего сына.",
+        "slogan": "",
+        "premiere": "7 апреля 2019",
+        "age": "0",
+        "time": "5220",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjg3OGEyMTgtNTkzMi00YTZjLTg2N2ItMzc2YWU5ODgwZmQ0XkEyXkFqcGdeQXVyNTkzOTgyNTM@._V1_SY1000_CR0,0,692,1000_AL_.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "7",
+          "rating_imdb": "5.5",
+          "vote_num_imdb": "220"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1034091",
       "date": "1602042301",
       "camrip": "0",
@@ -274,7 +484,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_81472.jpg",
         "rating": {
           "rating_kp": "7.044",
-          "vote_num_kp": "76697",
+          "vote_num_kp": "76714",
           "rating_imdb": "7",
           "vote_num_imdb": "256204"
         }
@@ -450,8 +660,8 @@
         "time": "5580",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1257505.jpg",
         "rating": {
-          "rating_kp": "5.383",
-          "vote_num_kp": "1037",
+          "rating_kp": "5.376",
+          "vote_num_kp": "1038",
           "rating_imdb": "5.7",
           "vote_num_imdb": "3827"
         }
@@ -906,7 +1116,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_106079.jpg",
         "rating": {
           "rating_kp": "6.822",
-          "vote_num_kp": "110109",
+          "vote_num_kp": "110133",
           "rating_imdb": "6",
           "vote_num_imdb": "243485"
         }
@@ -1382,10 +1592,10 @@
         "time": "1200",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1030001.jpg",
         "rating": {
-          "rating_kp": "7.557",
-          "vote_num_kp": "290",
+          "rating_kp": "7.572",
+          "vote_num_kp": "291",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "1973"
+          "vote_num_imdb": "1988"
         }
       }
     },
@@ -1662,220 +1872,10 @@
         "time": "9300",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1127372.jpg",
         "rating": {
-          "rating_kp": "7.16",
-          "vote_num_kp": "10788",
+          "rating_kp": "7.163",
+          "vote_num_kp": "10828",
           "rating_imdb": "4.7",
           "vote_num_imdb": "35252"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "717750",
-      "date": "1601908207",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "Двухголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Я научу тебя любить",
-        "orig": "Sarangeul gareuchyeo deuripnida",
-        "alter": "",
-        "year": "2010",
-        "country": "Корея Южная",
-        "director": "Квон Сон-чхан",
-        "genre": "мелодрама,комедия",
-        "actors": "Ким Гю-ри,Ки Тхэ-ён,Ян Джин-у,Ли Сон-мин,Хён У,Чхве Джэ-хван",
-        "description": "Спустя 12 лет безответной любви Ли Джин-и решила обратиться к консультанту по свиданиям Квон Тхэ-джуну. Ей оказали не особо радужный прием, так как она обратилась в фирму, консультирующую мужчин, но в связи с кризисом и проблемами с привлечением новых клиентов босс решил, что это неплохая возможность для дальнейшего развития бизнеса.",
-        "slogan": "",
-        "premiere": "10 октября 2010",
-        "age": "0",
-        "time": "4800",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_717750.jpg",
-        "rating": {
-          "rating_kp": "7.81",
-          "vote_num_kp": "350",
-          "rating_imdb": "7",
-          "vote_num_imdb": "47"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "754481",
-      "date": "1601906005",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Форсаж 7",
-        "orig": "Furious Seven",
-        "alter": "",
-        "year": "2015",
-        "country": "США",
-        "director": "Джеймс Ван",
-        "genre": "боевик,триллер,криминал",
-        "actors": "Вин Дизель, Пол Уокер, Джейсон Стэйтем, Мишель Родригес, Дуэйн Джонсон, Тайриз Гибсон, Лудакрис, Натали Эммануэль, Джордана Брюстер, Курт Рассел",
-        "description": "Они покорили Токио и Рио, Лос-Анджелес и Лондон. Но мир больше не играет по их правилам. Зной арабских пустынь, неприлично высокие небоскребы, миллионы долларов на колесах и очень, очень знаменитый злодей. Скорость не знает границ.",
-        "slogan": "Месть не знает границ",
-        "premiere": "16 марта 2015",
-        "age": "16",
-        "time": "8220",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_754481.jpg",
-        "rating": {
-          "rating_kp": "7.008",
-          "vote_num_kp": "168453",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "360688"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "371",
-      "date": "1601885044",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Спасти рядового Райана",
-        "orig": "Saving Private Ryan",
-        "alter": "",
-        "year": "1998",
-        "country": "США",
-        "director": "Стивен Спилберг",
-        "genre": "драма,военный",
-        "actors": "Том Хэнкс, Том Сайзмор, Эдвард Бёрнс, Барри Пеппер, Адам Голдберг, Вин Дизель, Джованни Рибизи, Джереми Дэвис, Мэтт Дэймон, Тед Дэнсон",
-        "description": "Капитан Джон Миллер получает тяжелое задание. Вместе с отрядом из восьми человек Миллер должен отправиться в тыл врага на поиски рядового Джеймса Райана, три родных брата которого почти одновременно погибли на полях сражений.\r\n\r\nКомандование приняло решение демобилизовать Райана и отправить его на родину к безутешной матери. Но для того, чтобы найти и спасти солдата, крошечному отряду придется пройти через все круги ада...",
-        "slogan": "The movie that inspired to the world to remember",
-        "premiere": "21 июля 1998",
-        "age": "16",
-        "time": "10140",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_371.jpg",
-        "rating": {
-          "rating_kp": "8.175",
-          "vote_num_kp": "235240",
-          "rating_imdb": "8.6",
-          "vote_num_imdb": "1242502"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "602373",
-      "date": "1601878698",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Голодные игры: И вспыхнет пламя",
-        "orig": "The Hunger Games: Catching Fire",
-        "alter": "",
-        "year": "2013",
-        "country": "США",
-        "director": "Френсис Лоуренс",
-        "genre": "боевик,фантастика,триллер,приключения",
-        "actors": "Дженнифер Лоуренс, Джош Хатчерсон, Лиам Хемсворт, Вуди Харрельсон, Сэм Клафлин, Джеффри Райт, Джена Мэлоун, Элизабет Бэнкс, Дональд Сазерленд, Филип Сеймур Хоффман",
-        "description": "Сумев выжить на безжалостных Голодных играх, Китнисс Эвердин и Пит Мелларк возвращаются домой. Но теперь они в еще большей опасности, так как своим отказом играть по правилам на Арене бросили вызов Капитолию. По традиции следующие, юбилейные, Голодные игры должны стать особенными, и в этот раз в них участвуют только победители прошлых лет. Китнисс и Пит вынуждены вновь выйти на Арену, где будут соперничать с сильнейшими. Правила игры меняются. Арена еще опасней, масштаб еще больше, ставки еще выше!",
-        "slogan": "Помни, кто твой настоящий враг",
-        "premiere": "11 ноября 2013",
-        "age": "12",
-        "time": "8760",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_602373.jpg",
-        "rating": {
-          "rating_kp": "7.499",
-          "vote_num_kp": "234407",
-          "rating_imdb": "7.5",
-          "vote_num_imdb": "615687"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "894972",
-      "date": "1601874899",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K WEB-DL",
-      "translation": "Многоголосый",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Все радостные места",
-        "orig": "All the Bright Places",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Бретт Хейли",
-        "genre": "драма,мелодрама",
-        "actors": "Эль Фаннинг,Джастис Смит,Александра Шипп,Келли О’Хара,Ламар Джонсон,Вирджиния Гарднер,Феликс Майяр,Sofia Hasmik,Кигэн-Майкл Ки,Люк Уилсон",
-        "description": "История двух молодых людей, чья судьбоносная встреча полностью меняет их жизни.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "0",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_894972.jpg",
-        "rating": {
-          "rating_kp": "6.297",
-          "vote_num_kp": "4247",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "21097"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1412499",
-      "date": "1601846109",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Дэвид Аттенборо: Жизнь на нашей планете",
-        "orig": "David Attenborough: A Life on Our Planet",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Аластер Фовергилл,Джонатан Хьюз,Кит Шолей",
-        "genre": "документальный,биография",
-        "actors": "Дэвид Аттенборо",
-        "description": "В свои 93 года Дэвид Аттенборо посетил все континенты земного шара, исследуя дикие места нашей планеты и документируя живой мир во всем его разнообразии. Но также Аттенборо своими глазами увидел колоссальные масштабы воздействия человека на природу. Впервые в жизни он размышляет как об определяющих моментах своей жизни как натуралиста, так и о разрушительных изменениях, которые он видел.",
-        "slogan": "He introduced us to the world. Now he tells his greatest story",
-        "premiere": "28 сентября 2020",
-        "age": "0",
-        "time": "4980",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1412499.jpg",
-        "rating": {
-          "rating_kp": "8.583",
-          "vote_num_kp": "637",
-          "rating_imdb": "9",
-          "vote_num_imdb": "24992"
         }
       }
     }
